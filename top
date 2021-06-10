@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <title>TOP</title>
+  <link rel="stylesheet" href="c_top.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+ </head>
+
+ <body>
+
+ <div class="header"><h1 style="color:white">未定</h1></div>
+ 
+ <div class="menu">
+   <ul class="icon">
+    <li><a href="world_top.html"><img src="../icon/world.png" alt="World"></a></li>
+    <li><a href="japan_top.html"><img src="../icon/japan-fuji.png" alt="Japan"></a></li>
+    <li><a href="his_top.html"><img src="../icon/makimono1.png" alt="History"></li>
+    <li><a href="lit_top.html"><img src="../icon/makimono2.png" alt="Literature"></a></li>
+    <li><a href="ma_top.html"><img src="../icon/museum.png" alt="Music and Art"></a></li>
+   </ul>
+ </div>
+
+ <div class="update">
+  <h2>進捗状況</h2>
+  <table>
+   <tr><td>2021/06/10<td><td><a href="world_top.html">①</a>、<a href="japan_top.html">②</a>、<a href="his_top.html">③</a>、<a href="lit_top.html">④</a>、<a href="ma_top.html">⑤</a></tr>
+  </table>
+ </div>
+   
+ <div class="footer">
+   <ul class="navi">
+    <li><a href="top.html">Top</a></li>
+    <li><a href="world_top.html">World</a></li>
+    <li><a href="japan_top.html">Japan</a></li>
+    <li><a href="his_top.html">History</a></li>
+    <li><a href="lit_top.html">Literature</a></li>
+    <li><a href="ma_top.html">Music and Art</a></li>
+   </ul>
+  </div>
+
+ </body>
+
+</html>
